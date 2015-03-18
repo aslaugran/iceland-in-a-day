@@ -1,0 +1,15 @@
+/*
+Theme name:     Accelerate Theme Child
+Theme URL:      http://example.com/accelerate-theme-child/
+Description:    Accelerate Child Theme - Accelerate
+Author URL:     http://asaeinars.com
+Template:       accelerate-theme
+Version:        1.0.0
+Tags:           light, dark, two-columns, right-sidebar, responssive-layout, accessibility-ready
+Text Domain:    accelerate-theme-child
+*/
+@import url("../accelerate-theme/style.css");
+
+body {
+    background: red;
+}
