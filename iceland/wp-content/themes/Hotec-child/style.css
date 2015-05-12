@@ -1,0 +1,13 @@
+/*
+Theme Name: Hotec Child Theme
+Description: Hotec Child Theme
+Author: AsaEinars
+Template: Hotec
+Version: 1.0
+*/
+
+@import url("../Hotec/style.css");
+
+body {
+    background: red;
+}
